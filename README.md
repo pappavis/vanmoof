@@ -9,7 +9,7 @@ Since march-2023 Error 45 occoured twice and peddle support only works when the 
 1. Read HOWTO <a href="https://www.reddit.com/r/vanmoofbicycle/comments/15kl0vs/lets_talk_eshifter_heres_how_to_debug_your/" target="_blank">1</a>,
 <a href="https://www.e-bike-technologies.de/index.php/de/steckverbinder/steckverbinder-signal/steckverbinder-higo-mini-f-serie/higo-b4-f-detail" target="_blank">2</a>.
 2. Read <a href="https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/successful_eshifter_repair_s3/" target="_blank">successful_eshifter_repair_s3</a> by a mechatronics engineer.
-3. Photo of 2x SMD <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fzp0worugp5cb1.jpeg%3Fwidth%3D1575%26format%3Dpjpg%26auto%3Dwebp%26s%3Dd3b0595aea6afd03a556e7189804ad97c016d10d" target="_blank">resistors</a> on the PCB to replace
+3. Photo of 2x SMD <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fzp0worugp5cb1.jpeg%3Fwidth%3D1575%26format%3Dpjpg%26auto%3Dwebp%26s%3Dd3b0595aea6afd03a556e7189804ad97c016d10d" target="_blank">resistors</a> on the PCB to replace from <a href="https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/successful_eshifter_repair_s3/">this</a> guide.
 
 # Requirements
 - Experience with soldering, desoldering
