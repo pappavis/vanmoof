@@ -14,7 +14,7 @@ Since march-2023 Error 45 occoured twice and peddle support only works when the 
 # Requirements
 - Experience with soldering, desoldering
 - Have a multimeter
-- eShifter debugging <a href="https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/comment/jsah74b/?utm_source=share&utm_medium=web2x&context=3" target="_blank">extension 1</a> 
+- eShifter debugging <a href="https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/comment/jsah74b/?utm_source=share&utm_medium=web2x&context=3" target="_blank">extension</a> cable
 - Optional: bench lab powersupply such as a Riden <a href="https://www.youtube.com/watch?v=7M3mByDMRWw" target="_blank">RK6006</a>.
 
 # eShifter
