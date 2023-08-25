@@ -5,7 +5,7 @@ This is a collection of VanMoof S3 eshifter resources and hardware schematics.
 
 Since march-2023 Error 45 occoured twice and peddle support only works when the steering handle is turnt to the left.  Its unfixable as VanMoof went bankrupt.
 
-# How to debug VanMoof eshifter fix
+# VanMoof eshifter fix
 1. Read HOWTO <a href="https://www.reddit.com/r/vanmoofbicycle/comments/15kl0vs/lets_talk_eshifter_heres_how_to_debug_your/" target="_blank">1</a>,
 <a href="https://www.e-bike-technologies.de/index.php/de/steckverbinder/steckverbinder-signal/steckverbinder-higo-mini-f-serie/higo-b4-f-detail" target="_blank">2</a>.
 2. Read <a href="https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/successful_eshifter_repair_s3/" target="_blank">successful_eshifter_repair_s3</a> by a mechatronics engineer.
