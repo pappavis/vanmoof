@@ -1,7 +1,7 @@
 # Van Moof S3 eShifter fixes
 This is a collection of VanMoof S3 eshifter resources and schematics.
 
-<img src="https://github.com/pappavis/vanmoof/blob/main/img/VanMoofS3_transp.png?raw=true" width="40%" height="40%">
+<img src="https://github.com/pappavis/vanmoof/blob/main/img/VanMoofS3_transp.png?raw=true" width="20%" height="20%">
 
 Since march-2023 Error 45 occoured twice and peedle support only works when the stereing handle is turnt to the left.  Its unfixable as VanMoof went bankrupt.
 
