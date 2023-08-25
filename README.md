@@ -17,6 +17,11 @@ Since march-2023 Error 45 occoured twice and peddle support only works when the 
 - eShifter debugging <a href="https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/comment/jsah74b/?utm_source=share&utm_medium=web2x&context=3" target="_blank">extension</a> cable
 - Optional: bench lab powersupply such as a Riden <a href="https://www.youtube.com/watch?v=7M3mByDMRWw" target="_blank">RK6006</a>.
 
+Dealers who may help
+ - <b>Error 44<b> Option 1 <a href="https://www.broersamersfoort.nl/">Broers</a> Fietsreperateurs, Amersfoort, has a in-place replacement for the eshifter
+ - <b>Error 44<b> Option 2 <a href="https://iservice-utrecht.nl/">iService</a> learnt by DIY how to fix the eShifter and could do it for you.
+ - <b>Error 45<b> <a href="https://greenbikes.nl/">Green Bikes</a>, Haarlem, NL has  VanMoof techie which can repair cable problem, but they are waiting for spares (Aug-2023) arriving end of Sep-2023
+
 # eShifter
 Schema of the Van Moof S3 eshifter (click to enlarge)<br>
 <img src="https://github.com/pappavis/vanmoof/blob/main/img/VanMoof%20S3%20eshifter%20schema%2020230810.jpg?raw=true" width="40%" height="40%"><br>
