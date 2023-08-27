@@ -26,3 +26,7 @@ Dealers who may help
 Schema of the Van Moof S3 eshifter (click to enlarge)<br>
 <img src="https://github.com/pappavis/vanmoof/blob/main/img/VanMoof%20S3%20eshifter%20schema%2020230810.jpg?raw=true" width="40%" height="40%"><br>
 Credits to: <a href="https://www.reddit.com/user/PrefectPrust/" target="_blank">"u/PrefectPrust"</a>
+
+# Ander
+Verzameling van oplossingen --> <a href="https://github.com/Bernardus/openmoof/">https://github.com/Bernardus/openmoof/</a>
+
