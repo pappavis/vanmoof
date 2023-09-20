@@ -27,6 +27,9 @@ Schema of the Van Moof S3 eshifter (click to enlarge)<br>
 <img src="https://github.com/pappavis/vanmoof/blob/main/img/VanMoof%20S3%20eshifter%20schema%2020230810.jpg?raw=true" width="40%" height="40%"><br>
 Credits to: <a href="https://www.reddit.com/user/PrefectPrust/" target="_blank">"u/PrefectPrust"</a>
 
+# Verschillende tips
+* <a href="https://www.facebook.com/groups/vanmoofgebruikersnederland/posts/6430922890322179/?comment_id=6430931716987963&reply_comment_id=6431392556941879">ERR45</a> kabel boom verangen mbt batterij.
+
 # Ander
 Verzameling van oplossingen --> <a href="https://github.com/Bernardus/openmoof/">https://github.com/Bernardus/openmoof/</a>
 
