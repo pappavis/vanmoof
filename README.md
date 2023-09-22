@@ -29,6 +29,7 @@ Credits to: <a href="https://www.reddit.com/user/PrefectPrust/" target="_blank">
 
 # Verschillende tips
 * <a href="https://www.facebook.com/groups/vanmoofgebruikersnederland/posts/6430922890322179/?comment_id=6430931716987963&reply_comment_id=6431392556941879">ERR45</a> kabel boom verangen mbt batterij.
+* ERR45 oplossen motorkabel op <a href="https://www.facebook.com/groups/vanmoofgebruikersnederland/posts/6430922890322179/?comment_id=6430931716987963&reply_comment_id=6600551780025955">vanmoofgebruikersnederland</a>.
 
 # Ander
 Verzameling van oplossingen --> <a href="https://github.com/Bernardus/openmoof/">https://github.com/Bernardus/openmoof/</a>
